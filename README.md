@@ -1,7 +1,7 @@
 Calculadora 
 ========================
 
-Calculadora
+Calculadora de suma, resta, multiplicacion y division.
 
 Requerimientos
 ------------
@@ -34,7 +34,7 @@ Captura
 <br>
 <div align="center">
     <center>
-        <img src="/img/gif.gif" width="300">
+        <img src="/img/gif1.gif" width="300">
     </center>
 </div>
 <br><br>
